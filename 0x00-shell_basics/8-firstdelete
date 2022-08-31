@@ -1,4 +1,5 @@
 #!/bin/bash
 rm /tmp/my_first_directory/betty >> 8-firstdelete
 
+chmod u+x 8-firstdelete
 echo rm /tmp/my_first_directory/betty
